@@ -11,7 +11,7 @@ class HospitalController {
                 HospitalView.registerView(objArr)
             }
         })
-    }
+    } 
 
     // lanjutkan command yang lain
 
