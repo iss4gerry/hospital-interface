@@ -12,7 +12,7 @@ let HospitalController = require("./controller");
 > node index.js logout
 > node index.js show <employee/patient> 
 > node index.js findPatientBy: <name/id> <namePatient/idPatient>
-
+ 
 NOTE :
 
 1. HANYA DOKTER SAJA YANG BOLEH PAKAI COMMAND CRUD PATIENT.
