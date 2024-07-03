@@ -1,7 +1,7 @@
 let Patient = require("./patient");
 let Employee = require("./employee")
 let HospitalView = require("./view");
-
+ 
 class HospitalController {
     static register (username, password, role) {
         Employee.register(username, password, role, (error, objArr) => {
