@@ -1,5 +1,5 @@
 const fs = require("fs");
-
+ 
 class Patient {
   constructor(id, nama, penyakit1, penyakit2) {
     this.id = id;
