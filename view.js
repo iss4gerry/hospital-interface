@@ -36,7 +36,7 @@ class HospitalView {
     static errView(err){
         console.log(err)
     }
-
+ 
     static updatePatientView(value){
         console.log(`data pasien dengan nama ${value[0].nama} berhasil diupdate`)
     }
