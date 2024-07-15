@@ -19,7 +19,7 @@ NOTE :
 2. TIDAK BISA LOGIN BERSAMAAN.
 3. HANYA ADMIN SAJA YANG BISA MELIHAT SEMUA DATA EMPLOYEE.
 
-*/
+*/ 
 
 switch (command) {
     case "register":
