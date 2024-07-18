@@ -1,7 +1,7 @@
 let command = process.argv[2];
 let argument = process.argv.slice(3);
 let HospitalController = require("./controller");
-
+ 
 // HOSPITAL INTERFACE COMMAND
 /*
 > node index.js register <username> <password> <jabatan> 
